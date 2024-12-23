@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-20T17:43:07 IST" name="Default suite" finished-at="2024-12-20T17:43:15 IST" duration-ms="7740">
+    <groups>
+    </groups>
+    <test started-at="2024-12-20T17:43:07 IST" name="Default test" finished-at="2024-12-20T17:43:15 IST" duration-ms="7740">
+      <class name="computer.TC_DWS_006_Test">
+        <test-method is-config="true" signature="reportConfig()[pri:0, instance:computer.TC_DWS_006_Test@41d477ed]" started-at="2024-12-20T17:43:07 IST" name="reportConfig" finished-at="2024-12-20T17:43:07 IST" duration-ms="228" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportConfig -->
+        <test-method is-config="true" signature="launchBrowser(java.lang.String)[pri:0, instance:computer.TC_DWS_006_Test@41d477ed]" started-at="2024-12-20T17:43:07 IST" name="launchBrowser" finished-at="2024-12-20T17:43:11 IST" duration-ms="4604" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="login()[pri:0, instance:computer.TC_DWS_006_Test@41d477ed]" started-at="2024-12-20T17:43:11 IST" name="login" finished-at="2024-12-20T17:43:13 IST" duration-ms="1885" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="clickOnComputers()[pri:0, instance:computer.TC_DWS_006_Test@41d477ed]" started-at="2024-12-20T17:43:13 IST" name="clickOnComputers" finished-at="2024-12-20T17:43:14 IST" duration-ms="987" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnComputers -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:computer.TC_DWS_006_Test@41d477ed]" started-at="2024-12-20T17:43:14 IST" name="logout" finished-at="2024-12-20T17:43:14 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:computer.TC_DWS_006_Test@41d477ed]" started-at="2024-12-20T17:43:14 IST" name="closeBrowser" finished-at="2024-12-20T17:43:15 IST" duration-ms="231" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="reportBackup()[pri:0, instance:computer.TC_DWS_006_Test@41d477ed]" started-at="2024-12-20T17:43:15 IST" name="reportBackup" finished-at="2024-12-20T17:43:15 IST" duration-ms="833" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportBackup -->
+      </class> <!-- computer.TC_DWS_006_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
