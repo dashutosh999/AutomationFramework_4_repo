@@ -5,6 +5,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
+// this is for getting Home Page
 public class HomePage {
 	@FindBy(linkText = "Log out")
 	private WebElement logoutLink;
